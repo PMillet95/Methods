@@ -36,7 +36,7 @@ namespace Methods
 
         private static void USER_INPUT(string userinput)
         {
-            Console.WriteLine("Hello " + userinput);
+            Console.WriteLine("Hello " + userinput + "!");
             Console.WriteLine("Press any key to close the program");
             Console.ReadKey(true);
             // The second method which takes what the user entered and displays it on the console
