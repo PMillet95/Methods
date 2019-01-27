@@ -1,7 +1,7 @@
 ﻿/*
   Author: Peter Millet
   Date: 01/26/2019
-  Comment: A program that uses methods
+  Comment: A program that uses more than one method
 */
 
 
@@ -15,7 +15,7 @@ namespace Methods
         {
             Console.WriteLine("Please enter your name");
             Console.ReadKey(true);
-            // Asks the user to type their name
+            // This code asks the user to type their name
 
             try
             {
